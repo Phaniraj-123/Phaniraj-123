@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in frontend dev<br>- 🌱 I’m currently learning reactjs- <br>💞️ I’m looking to collaborate on any web dev project<br>- 📫 How to reach me? - just mail me<br>- ⚡ Fun fact: I'm really new to this and want to learn new things
+- 👀 I’m interested in frontend dev<br>- <br>💞️ I’m looking to collaborate on any web dev project<br>- 📫 How to reach me? - just mail me<br>- ⚡ Fun fact: I'm really new to this and want to learn new things
 
 
 ## 🌐 Socials:
